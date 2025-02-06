@@ -64,7 +64,9 @@
 
 ## ⚠️ **Disclaimer**  
 - This tool may violate Twitter/X automation policies. Use at your own risk.  
-- Cryptocurrency investments are volatile; we are not liable for losses.  
+- Cryptocurrency investments are volatile; we are not liable for losses.
+
+- GitHub repo contains backend automation logic, while the UI is hosted privately on our website
 
 For support, contact us via twitter or email support@trymakoto.com  
 
