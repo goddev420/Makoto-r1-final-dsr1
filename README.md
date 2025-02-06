@@ -1,3 +1,17 @@
+![image](https://github.com/user-attachments/assets/d37eb896-12ae-42fa-a342-bef157934b5d)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Makoto-R1-Final-DSR1: Solana Token Auto-Sniper  
 **Automatically snipe tokens from trusted Twitter/X accounts**  
 
