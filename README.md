@@ -55,7 +55,16 @@
 ## ❓ **Why This Matters**  
 - **Precision**: Focuses only on accounts *you trust*.  
 - **Speed**: Built for Solana’s high-speed blockchain.  
-- **Zero Effort**: Fully automated—no manual monitoring.  
+- **Zero Effort**: Fully automated—no manual monitoring.
+
+- ## 🔧 **Technical Setup (For Developers)**  
+- The bot uses Twitter/X API v2 to monitor specified accounts (requires API keys).  
+- Solana transactions are executed via `@solana/web3.js` (configure RPC endpoint in `config.json`).  
+- DeepSeek-R1 validation runs via [API/offline model].  
+
+## ⚠️ **Disclaimer**  
+- This tool may violate Twitter/X automation policies. Use at your own risk.  
+- Cryptocurrency investments are volatile; we are not liable for losses.  
 
 For support, contact us via twitter or email support@trymakoto.com  
 
