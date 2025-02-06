@@ -1,0 +1,5 @@
+{
+  "twitterAccounts": ["@SolanaProject", "@CryptoAlert"],
+  "solanaRpc": "https://api.mainnet-beta.solana.com",
+  "walletPrivateKey": "REPLACE_WITH_YOUR_KEY"
+}
